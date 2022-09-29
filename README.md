@@ -9,4 +9,4 @@ This is my first challange with NLP: making a spam classifier from a dataset of 
 
 ## House Pricing
 
-![download](https://user-images.githubusercontent.com/109316190/193082206-08d5082a-6c4c-4a27-aba3-6c8e3f64b39f.png)
+![download](https://user-images.githubusercontent.com/109316190/193082206-08d5082a-6c4c-4a27-aba3-6c8e3f64b39f.png| width = 100)
